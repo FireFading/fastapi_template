@@ -1,0 +1,14 @@
+aiosqlite
+alembic
+asyncpg
+fastapi_pagination
+httpx
+psycopg2-binary
+python_dotenv
+pytest
+pytest_asyncio
+pytest_mock
+sqlalchemy
+sqlalchemy_utils
+uvicorn
+
