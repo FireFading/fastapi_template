@@ -5,6 +5,7 @@
 # Ignore editor and IDE files
 .vscode
 .idea
+.github
 
 # Ignore local development files
 __pycache__
