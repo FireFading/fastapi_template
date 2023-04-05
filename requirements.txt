@@ -10,5 +10,6 @@ pytest_asyncio
 pytest_mock
 sqlalchemy
 sqlalchemy_utils
+stackprinter
 uvicorn
 
