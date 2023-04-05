@@ -11,5 +11,3 @@ COPY ./requirements.txt ./
 COPY ./.env /code/
 
 RUN pip3 install --upgrade pip --no-cache-dir && pip3 install -r requirements.txt --no-cache-dir
-
-CMD ["alembic", "upgrade", "head"]
