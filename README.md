@@ -7,10 +7,10 @@ template for FastAPI application with Postgres db with alembic in docker
 ## Features
 
 - run app in docker
-- pytest init condig with main fixtures
-- base CRUD for async actions eith database
-- alembic migratrions
-- gihub CI/CD
+- pytest init config with main fixtures for async testing
+- base CRUD for async actions with database via sqlalchemy
+- alembic migrations
+- github CI/CD
 - formatting and linting with Nox
 - main commands for actions with project in Makefile
 
